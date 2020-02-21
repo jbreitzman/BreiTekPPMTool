@@ -1,3 +1,22 @@
-.ProjectItem {
-  text-align: center;
+.fa.fa-edit {
+  color: #18a2b9;
+}
+
+.fa.fa-minus-circle {
+  color: red;
+}
+
+.delete:hover {
+  cursor: -webkit-grab;
+  background-color: pink;
+}
+
+.update:hover {
+  cursor: -webkit-grab;
+  background-color: gainsboro;
+}
+
+.board:hover {
+  cursor: -webkit-grab;
+  background-color: gainsboro;
 }
